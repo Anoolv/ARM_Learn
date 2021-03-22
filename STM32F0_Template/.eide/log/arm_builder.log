@@ -1,0 +1,146 @@
+[2021-02-28 14:42:04]	Not found any source files !, please add some source files !
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:11:33]	Not found any source files !, please add some source files !
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:30:52]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\DeviceSupport\startup\iar\startup_stm32f10x_cl.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:31:28]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\DeviceSupport\startup\arm\startup_stm32f10x_ld_vl.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:32:59]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:34:03]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:34:50]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:36:29]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:36:44]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 15:36:50]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 16:40:00]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 16:42:30]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\CMSIS\CoreSupport\core_cm3.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 16:47:48]	compilation failed at : "c:\Users\Anoolv\Desktop\Template\USER\src\delay.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-02-28 16:48:31]	[done]
+	build successfully !
+
+[2021-02-28 16:52:26]	[done]
+	build successfully !
+
+[2021-03-01 08:47:29]	[done]
+	build successfully !
+
+[2021-03-01 09:01:15]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\Templates\arm\startup_stm32f070xb.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 09:05:49]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\system_stm32f0xx.c", exit code: 1
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 09:07:15]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\USER\src\clock_config.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 09:09:27]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f072.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 09:10:41]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f0xx.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 09:12:10]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f0xx.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:07:30]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f072.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:18:16]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f072.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:26:37]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f0xx.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:27:36]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_rtc.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:29:19]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_dma.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:29:58]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f072.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:30:22]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\arm\startup_stm32f072.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:34:02]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\Templates\iar\startup_stm32f030.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:34:44]	compilation failed at : "c:\Users\M\Desktop\EIDE_STM32F0\CMSIS\DeviceSupport\startup\Templates\arm\startup_stm32f072.s", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 10:35:20]	[done]
+	build successfully !
+
+[2021-03-01 10:36:27]	[done]
+	build successfully !
+
+[2021-03-01 13:48:54]	[done]
+	build successfully !
+
+[2021-03-01 15:36:28]	compilation failed at : "c:\Users\M\Desktop\EIDE_Template\EIDE_STM32F0\USER\src\led.c", exit code: 1
+   在 unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds, List`1 doneList)
+   在 unify_builder.Program.Main(String[] args)
+
+[2021-03-01 15:36:50]	[done]
+	build successfully !
+
+[2021-03-01 15:47:58]	[done]
+	build successfully !
+
+[2021-03-01 16:00:59]	[done]
+	build successfully !
+
+[2021-03-01 16:09:37]	[done]
+	build successfully !
+
+[2021-03-01 16:09:51]	[done]
+	build successfully !
+

@@ -1,0 +1,28 @@
+-mthumb -mcpu=cortex-m0 --specs=nosys.specs --specs=nano.specs -Wl,--gc-sections -T "c:/Users/M/Desktop/EIDE_Template/EIDE_STM32F0/CMSIS/STM32F072CBTx_FLASH.ld" -L./CMSIS -L./STM32F0xx_StdPeriph_Driver
+-Wl,-Map=./OBJS/Debug/Template.map
+-o ./OBJS/Debug/Template.elf ./OBJS/Debug/system_stm32f0xx.o
+./OBJS/Debug/stm32f0xx_adc.o
+./OBJS/Debug/stm32f0xx_can.o
+./OBJS/Debug/stm32f0xx_cec.o
+./OBJS/Debug/stm32f0xx_comp.o
+./OBJS/Debug/stm32f0xx_crc.o
+./OBJS/Debug/stm32f0xx_crs.o
+./OBJS/Debug/stm32f0xx_dac.o
+./OBJS/Debug/stm32f0xx_dbgmcu.o
+./OBJS/Debug/stm32f0xx_dma.o
+./OBJS/Debug/stm32f0xx_exti.o
+./OBJS/Debug/stm32f0xx_flash.o
+./OBJS/Debug/stm32f0xx_gpio.o
+./OBJS/Debug/stm32f0xx_i2c.o
+./OBJS/Debug/stm32f0xx_iwdg.o
+./OBJS/Debug/stm32f0xx_misc.o
+./OBJS/Debug/stm32f0xx_pwr.o
+./OBJS/Debug/stm32f0xx_rcc.o
+./OBJS/Debug/stm32f0xx_rtc.o
+./OBJS/Debug/stm32f0xx_spi.o
+./OBJS/Debug/stm32f0xx_syscfg.o
+./OBJS/Debug/stm32f0xx_tim.o
+./OBJS/Debug/stm32f0xx_usart.o
+./OBJS/Debug/stm32f0xx_wwdg.o
+./OBJS/Debug/led.o
+./OBJS/Debug/main.o -lm
